@@ -1,0 +1,6 @@
+# Python Version: 3.11.5
+h2o==3.46.0.6
+streamlit==1.40.2
+matplotlib==3.9.3
+redis==5.2.1
+pandas==2.2.3
