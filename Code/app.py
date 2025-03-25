@@ -2,8 +2,6 @@
 # Description: This code script contains the Streamlit web app for training AutoML models using H2O AutoML.
 # Developed By: 
     # Name: Vansh Raja
-    # Role: Intern, PreProd Corp
-    # Code ownership rights: Vansh Raja, PreProd Corp
 
 # Version: 1.0 [Date: 12-12-2024]
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

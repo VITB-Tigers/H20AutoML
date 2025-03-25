@@ -2,8 +2,6 @@
 # Description: This file contains the functions to carry out all data transformations using H2O.
 # Developed By: 
     # Name: Vansh Raja
-    # Role: Intern, PreProd Corp
-    # Code ownership rights: Vansh Raja, PreProd Corp
 
 # Version: 1.0 [Date: 12-12-2024]
 # CODE - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
